@@ -6,6 +6,7 @@ from docent import Docent
 
 
 # CONFIG 
+# Update your API key here
 API_KEY       = "Docent_API_Key" 
 # Collection ID for each model
 COLLECTIONS = {
