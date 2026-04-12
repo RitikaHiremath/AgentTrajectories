@@ -1,2 +1,2 @@
-This foulder contains the total data for all the five models. 
+This folder contains the total data for all the five models. 
 Each CSV file has data for each model with the counts of each category(system, user, assistant, tool and additionally unknown). The unknown cateogry is to account for any data that is not part of the given categories.

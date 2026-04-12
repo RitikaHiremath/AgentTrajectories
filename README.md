@@ -14,7 +14,8 @@ Built as part of the JetBrains internship application (Quality Metrics for Agent
 swe-trajectory-analyzer/
 ├── trackdata.py       # Task 1: CLI tool — counts messages in a trajectory file
 ├── trajectories.py    # Downloads all trajectories from Docent for a given model
-├── analysis.py            
+├── analysis.ipynb     # Task 2 descriptive analsysis file
+├── task-2.pdf         # Final report of task 2       
 ├── tracked_data/
 │   ├── claude-4-5-opus-high_counts.csv
 │   ├── claude-opus-4-6_counts.csv
