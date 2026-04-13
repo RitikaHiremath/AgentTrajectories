@@ -5,7 +5,8 @@ A set of command-line tools for downloading, processing, and analysing
 from [swebench.com](https://swebench.com).
 
 Built as part of the JetBrains internship application tasks.
- ---
+
+---
  
 ## Repository Structure
  
